@@ -111,6 +111,6 @@ The prototype includes:
 
 ## 📚 References
 
-Full references can be found in the [📄 Project Report](./Project_Report.pdf)
+Full references can be found in the [📄 Project Report](./Project Report.pdf)
 
 ---
